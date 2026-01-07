@@ -1,4 +1,5 @@
-onnx_path: "/home/sustech/shoot_pro/sim2sim/G1_Deploy-master/policy/beyond_mimic_motions/shoot/policy.onnx"
+# onnx_path: "/home/sustech/shoot_pro/sim2sim/G1_Deploy-master/policy/beyond_mimic_motions/shoot/policy.onnx"
+onnx_path: "/home/unitree/cjh/G1-deploy/policy/beyond_mimic_motions/shoot/policy.onnx"
 pt_path: "policy.pt"
 motion_file: "Shoot.csv"
 fps: 50

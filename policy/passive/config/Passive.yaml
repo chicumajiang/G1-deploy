@@ -1,12 +1,87 @@
-kds: [8,8,8,8,8,8,
-      8,8,8,8,8,8,
-      8,8,8,
-      8,8,8,8,8,8,8,
-      8,8,8,8,8,8,8]
+#kds: [8,8,8,8,8,8,
+#      8,8,8,8,8,8,
+#      8,8,8,
+#      8,8,8,8,8,8,8,
+#      8,8,8,8,8,8,8]
 
-kps: [0,0,0,0,0,0,
-      0,0,0,0,0,0,
-      0,0,0,
-      0,0,0,0,0,0,0,
-      0,0,0,0,0,0,0]
+kds: [
+    2.56,  # 0  left_hip_pitch
+    6.31,  # 1  left_hip_roll
+    2.56,  # 2  left_hip_yaw
+    6.31,  # 3  left_knee
+    1.81,  # 4  left_ankle_pitch
+    1.81,  # 5  left_ankle_roll
+
+    2.56,  # 6  right_hip_pitch
+    6.31,  # 7  right_hip_roll
+    2.56,  # 8  right_hip_yaw
+    6.31,  # 9  right_knee
+    1.81,  # 10 right_ankle_pitch
+    1.81,  # 11 right_ankle_roll
+
+    2.56,  # 12 waist_yaw
+    1.81,  # 13 waist_roll
+    1.81,  # 14 waist_pitch
+
+    0.91,  # 15 left_shoulder_pitch
+    0.91,  # 16 left_shoulder_roll
+    0.91,  # 17 left_shoulder_yaw
+    0.91,  # 18 left_elbow
+    0.91,  # 19 left_wrist_roll
+    1.07,  # 20 left_wrist_pitch
+    1.07,  # 21 left_wrist_yaw
+
+    0.91,  # 22 right_shoulder_pitch
+    0.91,  # 23 right_shoulder_roll
+    0.91,  # 24 right_shoulder_yaw
+    0.91,  # 25 right_elbow
+    0.91,  # 26 right_wrist_roll
+    1.07,  # 27 right_wrist_pitch
+    1.07,  # 28 right_wrist_yaw
+]
+
+
+
+
+
+#kps: [0,0,0,0,0,0,
+#      0,0,0,0,0,0,
+#      0,0,0,
+#      0,0,0,0,0,0,0,
+#      0,0,0,0,0,0,0]            
+kps: [
+    40.18,  # 0  left_hip_pitch
+    99.10,  # 1  left_hip_roll
+    40.18,  # 2  left_hip_yaw
+    99.10,  # 3  left_knee
+    28.50,  # 4  left_ankle_pitch
+    28.50,  # 5  left_ankle_roll
+
+    40.18,  # 6  right_hip_pitch
+    99.10,  # 7  right_hip_roll
+    40.18,  # 8  right_hip_yaw
+    99.10,  # 9  right_knee
+    28.50,  # 10 right_ankle_pitch
+    28.50,  # 11 right_ankle_roll
+
+    40.18,  # 12 waist_yaw
+    28.50,  # 13 waist_roll
+    28.50,  # 14 waist_pitch
+
+    14.25,  # 15 left_shoulder_pitch
+    14.25,  # 16 left_shoulder_roll
+    14.25,  # 17 left_shoulder_yaw
+    14.25,  # 18 left_elbow
+    14.25,  # 19 left_wrist_roll
+    16.78,  # 20 left_wrist_pitch
+    16.78,  # 21 left_wrist_yaw
+
+    14.25,  # 22 right_shoulder_pitch
+    14.25,  # 23 right_shoulder_roll
+    14.25,  # 24 right_shoulder_yaw
+    14.25,  # 25 right_elbow
+    14.25,  # 26 right_wrist_roll
+    16.78,  # 27 right_wrist_pitch
+    16.78,  # 28 right_wrist_yaw
+]
 
